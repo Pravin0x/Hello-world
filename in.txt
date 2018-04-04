@@ -1,0 +1,6 @@
+for(int k=0;k<n;k++)
+{
+j=j+1;
+}
+do{ac;}
+while(i<n);
