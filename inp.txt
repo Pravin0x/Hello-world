@@ -1,12 +1,15 @@
+if(a<c)
 {
-	int a[10],i,j;
+	
+}
+else
+{
+	if(c>d)
 	{
-		int d;
-		while(d<100)
-		{
-			a[i] = a[i-1]+1;
-			d++;
-		}
+
 	}
-	i=j+2;
+	else
+	{
+	 
+    }
 }
